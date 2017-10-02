@@ -1,5 +1,6 @@
 # IntellectualProcessing-Project
-Technosphere course project
+
+Проект по курсу техносферы "Алгоритмы интеллектуальной обработки больших объемов данных, 1 семестр".
 
 ## Участники
 
