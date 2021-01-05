@@ -30,3 +30,9 @@
 10. Названия.
 
 Отдельно нужен список главных достопремечательностей.
+
+## Presentation
+
+Presentation prepared in latex: [presentation folder](presentation). Recommended way to build .pdf
+is [Overleaf online latex compiler](https://www.overleaf.com). PDF is available in
+[release page](https://github.com/vslutov/IntellectualProcessing-Project/releases/latest)
